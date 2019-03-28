@@ -1,3 +1,7 @@
+logo: /assets/img/logo.jpg
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
 title: Welcome to the Hugo’s homepage!
 description: Feel free to bookmark this to keep an eys on my project updates
+
