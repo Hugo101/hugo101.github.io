@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page blog 1
+## MAML
+This is a test note.
 
 _yay_
 
